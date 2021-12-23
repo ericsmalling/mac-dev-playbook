@@ -1,0 +1,23 @@
+==> Formulae
+asciinema		doctl			grype			libev			libvorbis		nghttp2			sdl
+augeas			dosbox			gts			libevent		libx11			node			sdl_net
+aws-iam-authenticator	eksctl			guile			libffi			libxau			octant			sdl_sound
+bash			fontconfig		hadolint		libidn2			libxcb			oniguruma		six
+bash-completion		freetype		harfbuzz		libmagic		libxdmcp		openjdk			snappy
+bat			fribidi			helm			libogg			libxext			openssl@1.1		sqlite
+bdw-gc			gd			hugo			libomp			libxrender		p11-kit			tcl-tk
+berkeley-db		gdbm			icu4c			libpng			libyaml			pango			terraform
+brotli			gdk-pixbuf		jasper			libpthread-stubs	lua			pcre			tmate
+c-ares			gettext			jemalloc		librsvg			lz4			pcre2			tree
+cairo			git			jpeg			libslirp		lzo			pixman			trivy
+cbmbasic		glib			jq			libssh			m4			pkg-config		unbound
+certbot			gmp			kind			libssh2			midnight-commander	podman			vde
+container-diff		gnu-tar			ko			libtasn1		minikube		popt			watch
+ctop			gnutls			krew			libtiff			mpdecimal		python@3.9		webp
+dialog			go			kubernetes-cli		libtool			msgpack			qemu			wget
+dive			gobject-introspection	kustomize		libunistring		ncurses			readline		xorgproto
+docker-completion	graphite2		libarchive		libusb			netpbm			rpm			xz
+dockle			graphviz		libb2			libuv			nettle			s-lang			zstd
+
+==> Casks
+balenaetcher	cool-retro-term	vagrant
